@@ -6,6 +6,6 @@ The program allows the KIPR Link to follow a line and when at the end, spin arou
 
 #Licensing
 
-Robot Line Follower by Patrick Callahan + Adam Wang is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+Robot Line Follower by Patrick Callahan and Adam Wang is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 For more information, please visit https://creativecommons.org/licenses/by-sa/4.0/.
 If you are doing a similar project, please don't copy :)
