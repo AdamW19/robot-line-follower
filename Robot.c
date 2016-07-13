@@ -127,6 +127,13 @@ int right_is_dark() {
 * Please note that main()'s return value is 0 and is only present to compile the program.
 */
 int main() {
+	// Adds a pull-up resistor to the light sensors
+ 	set_analog_pullup(LEFT_SENSOR,0);
+ 	set_analog_pullup(RIGHT_SENSOR,0);
+ 	// Resets the "tick" counter to zero
+	clear_motor_position_counter(LEFT_MOTOR);
+ 	clear_motor_position_counter(RIGHT_MOTOR);
+ 	
 	for(int i=0; i < 2; i++) // Prevents the robot from infinitely looping the track. Feel free to remove this line 
 	{
 		while (1) //Loops indefinitely until both sensors detect the endline 
