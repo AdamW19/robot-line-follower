@@ -1,8 +1,9 @@
 /*
  * Robot Line Follower 1.0 Updated July 13th, 2016
  * 
- * Robot Line Follower by Patrick Callahan and Adam Wang is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. 
- * For more information, please visit https://creativecommons.org/licenses/by-sa/4.0/.
+ * Robot Line Follower by Patrick Callahan and Adam Wang is licensed under the MIT License. 
+ * For more information, please visit the LICENSE file.
+ *
  * Github Link: https://github.com/AdamW19/robot-line-follower
  * 
  * Notes: 
