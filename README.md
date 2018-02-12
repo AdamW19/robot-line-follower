@@ -1,9 +1,9 @@
 # The Basics
 
 This C program was made on a KIPR Link and was produced as a part of [George Washington University's Pre-College Program's Robotics Program](https://summer.gwu.edu/summer-immersion).
-The program uses the [KIPR Link](http://www.kipr.org/) to follow a line and when at the end, spin around and go back. We used Legos to form the body of the robot and used two motors and two light sensors.
+The program uses the [KIPR Link](http://www.kipr.org/hardware-software) to follow a line and when at the end, spin around and go back. We used Legos to form the body of the robot and used two motors and two light sensors.
 
-For pictures and more information about our time spent in GWU, please visit [here](https://docs.google.com/presentation/d/1NyzDT3z-Sr6-ACIEA0wY3wOMUD0gEmQb9PoWf9RRLeM/).
+For pictures and more information about our time spent in GWU, please see our presentation [here](https://docs.google.com/presentation/d/1NyzDT3z-Sr6-ACIEA0wY3wOMUD0gEmQb9PoWf9RRLeM/).
 
 # Licensing
 
