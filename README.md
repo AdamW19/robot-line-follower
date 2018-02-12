@@ -5,8 +5,7 @@ The program uses the [KIPR Link](http://www.kipr.org/) to follow a line and when
 
 For pictures and more information about our time spent in GWU, please visit [here](https://docs.google.com/presentation/d/1NyzDT3z-Sr6-ACIEA0wY3wOMUD0gEmQb9PoWf9RRLeM/).
 
-#Licensing
+# Licensing
 
-Robot Line Follower by Patrick Callahan and Adam Wang is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
-For more information, please visit https://creativecommons.org/licenses/by-sa/4.0/.
+Robot Line Follower by Patrick Callahan and Adam Wang is licensed under the MIT License. View LICENSE for more information.
 If you are doing a similar project for school, please don't copy; if you found this, your professor/teacher can find it too.
